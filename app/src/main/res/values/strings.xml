@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QR Pro</string>
+    <string name="splash_app_author">Amruth A. Pillai</string>
+    <string name="splash_app_version">version 1.0</string>
+
+    <string name="main_scan">Scan</string>
+    <string name="main_generate">Generate</string>
+    <string name="main_scan_cancel">Scanning was cancelled.</string>
+
+    <string name="scan_plaintext">Plain Text</string>
+    <string name="scan_website">Website</string>
+    <string name="scan_contact">Contact Information</string>
+    <string name="scan_copy_clipboard">Content copied to clipboard.</string>
+
+    <string name="result_type">Type</string>
+    <string name="result_content">Content</string>
+
+</resources>
